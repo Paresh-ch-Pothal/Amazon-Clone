@@ -26,4 +26,4 @@ This project is a simplified clone of the Amazon website, created as a practice 
 
 Feel free to adjust the sections and details based on your specific project structure and requirements.
 ## NOTE
-- The images which i used in my project are url based which may not be seen in my project
+- The images which i used in my project are url based which may not be visible in my project. Sorryy for that
