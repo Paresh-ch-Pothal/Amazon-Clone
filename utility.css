@@ -1,0 +1,51 @@
+.box-header:hover{
+    border: 2px solid rgb(176, 203, 201);
+}
+.invert{
+    filter: invert(100%);
+}
+.right-box-1{
+    height: 40px;
+    font-size: 13px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 6vw;
+}
+.right-box-1:hover{
+    border: 2px solid rgb(176, 203, 201);
+}
+.line{
+    height: 1px;
+    background-color: black;
+}
+.bold span{
+    font-size: 19px;
+    font-weight: bold;
+}
+.left li{
+    height: 40px;
+    width: 20vw;
+}
+.bold ul li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+.bold ul li:hover{
+    background-color: rgb(173, 187, 182);
+}
+.bold{
+    padding: 10px 20px;
+}
+.invert{
+    filter: invert(100%);
+}
+.separate{
+    height: 1px;
+    background-color: black;
+    position: relative;
+    top: 130px;
+}
