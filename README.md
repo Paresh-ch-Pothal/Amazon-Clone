@@ -6,7 +6,6 @@ This project is a simplified clone of the Amazon website, created as a practice 
 
 ## Features
 - **Homepage**: Displays a selection of products with images and brief descriptions.
-- **Product Details**: Clicking on a product shows more detailed information.
 - **Responsive Design**: Ensures the website looks good on different screen sizes.
 
 ## Technologies Used
