@@ -13,7 +13,7 @@ This project is a simplified clone of the Amazon website, created as a practice 
 - CSS3 (including Flexbox and Grid for layout)
 
 ## Installation
-1. Clone the repository: `git clone <[repository-url](https://github.com/Paresh-ch-Pothal/Amazon-Clone)>`
+1. Clone the repository: `git clone (https://github.com/Paresh-ch-Pothal/Amazon-Clone)>`
 2. Open `index.html` in your web browser.
 
 ## Usage
